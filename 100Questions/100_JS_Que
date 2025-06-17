@@ -1,3 +1,5 @@
+some code
+
 https://plainenglish.io/blog/50-javascript-output-questions
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 // Question: What is typeof []
@@ -32,6 +34,7 @@ https://plainenglish.io/blog/50-javascript-output-questions
 
 // Question: for var a = (1, 5 - 1) * 2 what is the value of a?
 // Answer: 8
+
 
 // Question: What is the value of !'bang'
 // Answer: false. ! is NOT.
